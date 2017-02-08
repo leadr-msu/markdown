@@ -25,6 +25,7 @@ Links can either be inline with the text, or placed at the bottom of the text as
 
 ##Images
 Images are almost identical to links, but an image starts with and exclamation point (!)
+
 !*nospace- delete*[text]*nospace- delete*(leadr.png)
 
 ##Blockquotes
