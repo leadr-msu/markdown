@@ -35,3 +35,15 @@ Blockquotes can also be nested using multiple greater than signs and can contain
 >First Line - one > sign
 >>Second Line - two > signs
 >>>Third Line - three > signs
+
+##Lists
+Unordered lists can use either astericks (*), plus (+) or hypens (-) as list markers followed by a space before the text. 
+
+* Astericks
++ Plus sign
+- Hypens
+
+Ordered lists use numbers followed by a period.
+
+1. Number 1
+2. Number 2
