@@ -47,3 +47,13 @@ Ordered lists use numbers followed by a period.
 
 1. Number 1
 2. Number 2
+
+##Nested Lists
+To nest one list within another, indent each item in the sublist by four spaces. you can also nest other elements like paragraphs, blockquotes or code blocks.
+* Item
+    1. First Subitem
+    2. Second Subitem
+* Item
+    - Subitem
+    - Subitem
+* Item
