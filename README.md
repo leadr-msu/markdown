@@ -67,7 +67,7 @@ To nest one list within another, indent each item in the sublist by four spaces.
 * Item
 
 # For showing code or markdown
-Use backtick ` ` ` ` `
+`To make your code appear like this ` use a back tick `
 
 
 # Tools to write in Markdown:
