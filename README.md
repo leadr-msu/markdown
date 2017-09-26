@@ -2,6 +2,8 @@
 
 Created by Autumn Painter
 
+# Headings
+
 ##Headings
 To make headings, start the line with a hash #. The more #, the smaller the header.
 
