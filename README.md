@@ -26,12 +26,12 @@ To creat italic text, wrap text with one asterick (*) or two underscores (__) on
 ## Links
 Links can either be inline with the text, or placed at the bottom of the text as references. Link text is enclosed by square brackets [], and for inline links, the link URL is inclosed by the parens ().
 
-[ text ] *no space - delete this part* (webaddress)
+`[ text ](webaddress)`
 
 ##Images
 Images are almost identical to links, but an image starts with and exclamation point (!)
 
-!*nospace- delete*[text]*nospace- delete*(leadr.png)
+`!(leadr.png)`
 
 ## Blockquotes
 To creat a blockquote, start a line with a greater than > followed by an optional space. 
