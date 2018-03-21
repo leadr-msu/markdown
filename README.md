@@ -74,4 +74,4 @@ To nest one list within another, indent each item in the sublist by four spaces.
 * [StackEdit](https://stackedit.io/)
 
 -----
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/resources)
